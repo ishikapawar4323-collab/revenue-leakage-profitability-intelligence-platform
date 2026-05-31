@@ -68,17 +68,54 @@ Dashboard pages include:
 * Revenue Analysis
 * Leakage Analysis
 * Customer Profitability
+## Dashboard Preview
+## Key Findings
 
+- Revenue leakage was primarily driven by excessive discounts and product returns.
+- Several customers generated high revenue but low profitability.
+- High-discount transactions showed significant margin erosion.
+- Return-related costs negatively impacted overall profitability.
+- Leakage risk scoring helped identify high-risk transactions.
+
+### Executive Summary
+
+![Executive Summary](screenshots/executive_summary.png)
+
+### Revenue Analysis
+
+![Revenue Analysis](screenshots/revenue_analysis.png)
+
+### Revenue Leakage Analysis
+
+![Revenue Leakage Analysis](screenshots/leakage_analysis.png)
+
+### Customer Profitability
+
+![Customer Profitability](screenshots/customer_profitability.png)
 ## Skills Demonstrated
 
-* Business Analytics
-* SQL
-* Python
-* Power BI
-* Data Visualization
-* KPI Development
-* Financial Analysis
-* Executive Reporting
+- SQL Analytics
+- Python Data Analysis
+- Power BI Dashboarding
+- Revenue Leakage Detection
+- Profitability Analysis
+- Customer Segmentation
+- KPI Development
+- Executive Reporting
+- Business Intelligence
+* ## Recommendations
+
+### Pricing Controls
+Implement approval workflows for high-discount transactions.
+
+### Return Management
+Monitor products with abnormal return rates.
+
+### Customer Strategy
+Focus retention efforts on high-profit customers.
+
+### Freight Optimization
+Review logistics costs and shipping efficiency.
 
 ## Future Enhancements
 
